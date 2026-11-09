@@ -46,6 +46,7 @@ Also in the [sidebar](_Sidebar.md). Browse by [tag](Tags.md).
 ### [Guides](Category-Guides.md)
 
 - [From idea to deployed AI app: a typical workflow](Idea-to-deployed-AI-app.md): One concrete path, end to end: build with an assistant, keys and secrets, deploy, logs, costs, updates.
+- [Why a deploy looks broken in one browser but fine in another](Stale-cache-after-a-deploy.md): A new HTML page paired with an old cached CSS or JS file: how to spot it, and how to give assets a URL that changes when they do.
 - [Where your keys come from: attribution for AI apps](Where-your-keys-come-from.md): When agents sign up instead of people, record a link ref, the agent and model the caller reports, and its HTTP client family, then count them by day.
 
 ### Tags

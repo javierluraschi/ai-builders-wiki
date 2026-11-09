@@ -8,10 +8,10 @@ Tags describe what a page touches on, across categories. They are added as pages
 
 - [agents](Tag-agents.md) (6)
 - [analytics](Tag-analytics.md) (1)
-- [basics](Tag-basics.md) (4)
+- [basics](Tag-basics.md) (5)
 - [coding-agents](Tag-coding-agents.md) (2)
 - [costs](Tag-costs.md) (3)
-- [hosting](Tag-hosting.md) (2)
+- [hosting](Tag-hosting.md) (3)
 - [mcp](Tag-mcp.md) (2)
 - [models](Tag-models.md) (2)
 - [privacy](Tag-privacy.md) (2)
