@@ -6,4 +6,5 @@
 
 - [From idea to deployed AI app: a typical workflow](Idea-to-deployed-AI-app.md) (Guides)
 - [Why a deploy looks broken in one browser but fine in another](Stale-cache-after-a-deploy.md) (Guides)
+- [Querying a web crawl from a small app](Querying-a-web-crawl-from-a-small-app.md) (Guides)
 - [The cloud, for AI apps](Cloud-for-AI-apps.md) (Foundations)

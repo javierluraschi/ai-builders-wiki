@@ -31,3 +31,4 @@
 - [From idea to deployed AI app: a typical workflow](Idea-to-deployed-AI-app.md)
 - [Why a deploy looks broken in one browser but fine in another](Stale-cache-after-a-deploy.md)
 - [Where your keys come from: attribution for AI apps](Where-your-keys-come-from.md)
+- [Querying a web crawl from a small app](Querying-a-web-crawl-from-a-small-app.md)
